@@ -6,7 +6,7 @@ pipeline{
                 echo "this is my devops file"
             }
         }
-        stage("stage-1"){
+        stage("stage-2"){
             steps{
                 echo "this is my devops file"
             }
